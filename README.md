@@ -1,2 +1,3 @@
-# fall-2025-final-project
-Final project for the Fall 2025 semester!
+# RUC Practical AI - Final Project: (Your Project Title)
+
+Enter markdown for your README here.
